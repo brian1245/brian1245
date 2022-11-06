@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brian1245
+- 👋 Hi, I’m @JUNIORWEB
 - 👀 I’m interested in ....learn how to develop android and ios applications
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...develop android and ios applications
